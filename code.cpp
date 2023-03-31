@@ -109,10 +109,12 @@ int main(){
     print(initiate);
     push(initiate,10);
     print(initiate);
+    push(initiate,13);
+    print(initiate);
     inertion(initiate,initiate,initiate->next);
     print(initiate);
 
-
+    // hey the code works really well for the case where similar intgers are also present 
 
 
 
